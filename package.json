@@ -18,7 +18,7 @@
     "chartjs": "^0.3.24",
     "cross-env": "^5.2.0",
     "csv-to-mysql": "0.0.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mysql2": "^1.6.5",
     "node-csv-loader": "^2.0.0",
     "nuxt": "^2.4.0",
